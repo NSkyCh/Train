@@ -1,0 +1,3 @@
+dog dog is dog;
+cat cat is cat;
+love i love you;
