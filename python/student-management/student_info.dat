@@ -1,0 +1,1 @@
+[{'ID': '1', 'name': '5', 'password': '1', 'Chinese': 5, 'Math': 5, 'English': 5, 'Total_score': 15, 'Chinese_rank': 1, 'Math_rank': 1, 'English_rank': 1, 'Total_score_rank': 1}, {'ID': '2', 'name': '2', 'password': '1', 'Chinese': 2, 'Math': 2, 'English': 2, 'Total_score': 6, 'Chinese_rank': 2, 'Math_rank': 2, 'English_rank': 2, 'Total_score_rank': 2}]
